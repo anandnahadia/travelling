@@ -111,7 +111,7 @@ const Header = () => {
                     </DropdownContent>
                 </Dropdown> 
                 <Dropdown>
-                    <Link href="#" >VISA</Link>
+                    <Link href="#" >Visa</Link>
                     <DropdownContent>
                         <DropLink href="#">Visa Details</DropLink>
                         <DropLink href="#">Buisness Visa</DropLink>
